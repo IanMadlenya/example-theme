@@ -1,0 +1,15 @@
+{
+    "name": "pagekit/example-theme",
+    "type": "pagekit-theme",
+    "version": "1.0.0",
+    "title": "Example theme",
+    "description": "The result of the Theme Guide",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pagekit",
+            "email": "info@pagekit.com",
+            "homepage": "http://pagekit.com"
+        }
+    ]
+}
